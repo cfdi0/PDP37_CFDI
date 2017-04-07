@@ -1,0 +1,16 @@
+com\axa\modelos\Campo.class
+com\axa\services\PoliticaService.class
+com\axa\services\TransformacionService.class
+com\axa\services\ValidacionService.class
+com\axa\modelos\Validacion.class
+com\axa\modelos\Politica.class
+com\axa\services\PlantillaService.class
+com\axa\modelos\Conjunto.class
+com\axa\modelos\Plantilla.class
+com\axa\services\ConjuntoService.class
+com\axa\services\MovimientoService.class
+com\axa\services\AdicionService.class
+com\axa\modelos\Adicion.class
+com\axa\services\CampoService.class
+com\axa\modelos\Movimiento.class
+com\axa\modelos\Transformacion.class
